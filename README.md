@@ -1,7 +1,6 @@
-# .github.io
+# Gesiel da Silva
 
-About me
-Gesiel Borges da Silva
+## About me
 
 I am a Brazilian philosopher pursuing a PhD in Philosophy of Science at the University of Missouri and a PhD in Logic at Unicamp. I hold a BSc in Physics and two Master’s degrees in Philosophy (Unicamp, 2020; University of Missouri, 2024). Currently, I work as a Teaching Assistant and Graduate Instructor for the Department of Philosophy of the University of Missouri, teaching introductory courses in Logic and Philosophy.
 
